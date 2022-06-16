@@ -8,6 +8,7 @@ PODS:
 DEPENDENCIES:
   - Flutter (from `Flutter`)
   - flutter_teachstack_sdk (from `.symlinks/plugins/flutter_teachstack_sdk/ios`)
+  - TeachmintSdk
 
 SPEC REPOS:
   trunk:
@@ -24,6 +25,6 @@ SPEC CHECKSUMS:
   flutter_teachstack_sdk: 23dd3aa5d851ecc02e6f3e2fe36b9343d3604db8
   TeachmintSdk: 33f0b9b4788e434461ad76fafd4686e0cef8b32c
 
-PODFILE CHECKSUM: 775997f741c536251164e3eacf6e34abf2eb7a17
+PODFILE CHECKSUM: 1836e58c6198628842093a441b5fd04b1e8c71be
 
 COCOAPODS: 1.11.2
