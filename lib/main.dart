@@ -21,7 +21,8 @@ class _MyAppState extends State<MyApp> {
   }
 
   Future<void> initPlatformState() async {
-    await FlutterTeachstackSdk.liveClass(url);
+    await FlutterTeachstackSdk.liveClass("https://video.teachmint.com/videoroom/videodemo::parthTest/studentId13/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyb29tX2lkIjoidmlkZW9kZW1vOjpwYXJ0aFRlc3QiLCJ1aWQiOiJzdHVkZW50SWQxMyIsInVuYW1lIjoic3R1ZGVudCIsInV0eXBlIjoyLCJleHAiOjE2NTU0MjgxMjF9.j0t5CD11zAX4X8Fr4Q8rsP54C_hS2XV4JQwco7C8qUg",
+    "App group name of your ios app");
   }
 
   @override

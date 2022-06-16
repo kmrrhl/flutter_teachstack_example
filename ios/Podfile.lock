@@ -1,0 +1,29 @@
+PODS:
+  - Flutter (1.0.0)
+  - flutter_teachstack_sdk (0.0.1):
+    - Flutter
+    - TeachmintSdk
+  - TeachmintSdk (1.1.7)
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - flutter_teachstack_sdk (from `.symlinks/plugins/flutter_teachstack_sdk/ios`)
+
+SPEC REPOS:
+  trunk:
+    - TeachmintSdk
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  flutter_teachstack_sdk:
+    :path: ".symlinks/plugins/flutter_teachstack_sdk/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 50d75fe2f02b26cc09d224853bb45737f8b3214a
+  flutter_teachstack_sdk: 23dd3aa5d851ecc02e6f3e2fe36b9343d3604db8
+  TeachmintSdk: 33f0b9b4788e434461ad76fafd4686e0cef8b32c
+
+PODFILE CHECKSUM: 775997f741c536251164e3eacf6e34abf2eb7a17
+
+COCOAPODS: 1.11.2
